@@ -19,4 +19,8 @@ Todas as instruções, incluíndo o código Javascript necessário para o funcio
 
 ## Acesso ao projeto
 
+<<<<<<< HEAD
 ## 
+=======
+## 
+>>>>>>> 6876b665f31582a93245ebd68fd42f719d056aa1
