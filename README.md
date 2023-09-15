@@ -14,9 +14,9 @@ Todas as instruções, incluíndo o código Javascript necessário para o funcio
 ## Tecnologias utilizadas
 
 ### Linguagens de marcação
-* HTML5
-* CSS3
-* Markdown
+``HTML5``  
+``CSS3``  
+``Markdown``  
 
 ### Linguagens de programação
 * Javascript
