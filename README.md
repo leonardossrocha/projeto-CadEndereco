@@ -25,7 +25,13 @@ Todas as instruções, incluíndo o código Javascript necessário para o funcio
 
 ![CEP incorreto](img/incorreto.gif)
 
+
 ## Tecnologias utilizadas
+
+O projeto foi construído a partir de script disponível no site [ViaCEP](https://viacep.com.br/). No próprio site consta um exemplo para teste bem como o código necessário para seu funcionamento. Note que há duas opções: ``Javascript`` puro e ``JQuery``. 
+
+![ViaCEP](img/viacep.gif)
+
 
 ### Linguagens de marcação
 
