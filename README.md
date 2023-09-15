@@ -32,6 +32,6 @@ Todas as instruções, incluíndo o código Javascript necessário para o funcio
 
 ``Bootstrap``
 
-## Acesso ao projeto
+## 🔓 Acesso ao projeto
 
-O projeto pode ser acessado por seu repositório no github. O código está disponível sob licença 
+O projeto pode ser acessado por seu repositório no github. O código está disponível sob licença [GPL v3](https://github.com/leonardossrocha/projeto-CadEndereco/blob/master/LICENSE).
