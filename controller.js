@@ -26,6 +26,7 @@ const cepValido = (cep) => cep.length == 8 && eNumero(cep);
 const pesquisarCep = async() => {
     limparFormulario();
     const url = `https://viacep.com.br/ws/${cep.value}/json/`;
+    
     if(cepValido(cep.value)){
         const dados = await fetch(url); //await = esperar
         const addres = await dados.json(); // fetch = promessa
