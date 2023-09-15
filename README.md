@@ -25,7 +25,7 @@ Todas as instruções, incluíndo o código Javascript necessário para o funcio
 
 ### Sistema de controle de versão
 
-``Git``
+``Git``  
 ``Github``
 
 ### Framework
