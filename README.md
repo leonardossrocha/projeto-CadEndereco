@@ -33,6 +33,15 @@ O projeto foi construído a partir de script disponível no site [ViaCEP](https:
 ![ViaCEP](img/viacep.gif)
 
 
+
+## **ATENÇÃO:**
+
+Para este projeto foi utilizada a versão do script do site ViaCEP de javascript puro. 
+___
+
+
+
+
 ### Linguagens de marcação
 
 ``HTML5``  
