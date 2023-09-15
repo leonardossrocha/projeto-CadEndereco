@@ -14,20 +14,23 @@ Todas as instruções, incluíndo o código Javascript necessário para o funcio
 ## Tecnologias utilizadas
 
 ### Linguagens de marcação
+
 ``HTML5``  
 ``CSS3``  
 ``Markdown``  
-
+ 
 ### Linguagens de programação
-* Javascript
+
+``Javascript``
 
 ### Sistema de controle de versão
-* Git
-* Github
+
+``Git``
+``Github``
 
 ### Framework
 
-- Bootstrap
+``Bootstrap``
 
 ## Acesso ao projeto
 
