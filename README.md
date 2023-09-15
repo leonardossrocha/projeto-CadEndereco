@@ -34,4 +34,4 @@ Todas as instruções, incluíndo o código Javascript necessário para o funcio
 
 ## Acesso ao projeto
 
-O projeto pode ser
+O projeto pode ser acessado por seu repositório no github. O código está disponível sob licença 
