@@ -20,6 +20,7 @@ const preencherForumulario = (endereco) =>{
 
 //Verifica se o CEP é válido...
 const eNumero = (numero) => /^[0-9]+$/.test(numero); //Expressão Regular
+// É possível testar e entender a RegEx em https://www.regexpal.com/
 const cepValido = (cep) => cep.length == 8 && eNumero(cep);
 
 //Consumindo API... 2- passo
