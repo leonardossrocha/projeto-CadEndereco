@@ -61,6 +61,12 @@ ___
 
 ``Bootstrap``
 
+#### Expressão regular
+
+Foi utilizado no projeto uma [expressão regular](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Regular_expressions). Esse recurso é muito utilizado em várias linguagens de programação. Neste caso, está coletando os números digitados pelo usuário entre 0 e 9. Esse processo exclui qualquer outro caracter que possa ser digitado. 
+
+É possível entender melhor sobre expressões regulares neste [site](https://www.regexpal.com/) onde você pode testar e entender melhor como funciona. 
+
 ## 🔓 Acesso ao projeto
 
 O projeto pode ser acessado por seu repositório no github. O código está disponível sob licença [GPL v3](https://github.com/leonardossrocha/projeto-CadEndereco/blob/master/LICENSE).
