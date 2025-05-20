@@ -73,5 +73,5 @@ O projeto pode ser acessado por seu repositório no github. O código está disp
 
 # Autores
 
-| [<img loading="lazy" src="https://user-images.githubusercontent.com/10586424/268408057-7757b6f6-de4f-42a2-a7fe-afe91656d23e.jpg" width=95><br><sub>Leonardo Rocha</sub>](https://github.com/leonardossrocha) |  [<img loading="lazy" src="https://user-images.githubusercontent.com/86802310/268408790-48baaee3-ce37-4ad6-9348-ecb738990343.png" width=95><br><sub>Leonardo Rocha (Marista)</sub>](https://github.com/leonardorochamarista)
+| [<img loading="lazy" src="https://user-images.githubusercontent.com/10586424/268408057-7757b6f6-de4f-42a2-a7fe-afe91656d23e.jpg" width=95><br><sub>Leonardo Rocha</sub>](https://github.com/leonardossrocha) |  [<img loading="lazy" src="https://user-images.githubusercontent.com/86802310/268408790-48baaee3-ce37-4ad6-9348-ecb738990343.png" width=95><br><sub>Leonardo Rocha</sub>](https://github.com/leonardorochamarista)
 | :---: | :---: |
